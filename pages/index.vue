@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxtjs
+        Marianne
       </h1>
       <h2 class="subtitle">
         Workflow2 MA2 Q9
